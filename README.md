@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianuragmishra&show_icons=true&locale=en" alt="ianuragmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragvlog&" alt="anuragvlog" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianuragmishra&" alt="ianuragmishra" /></p>
