@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently working on <a href="https://github.com/ianuragmishra/JobFinder" alt="JobFinder"/>JobFinder</a>
 
+- 🔭 I’m currently learning *Data Structures and Algorithms*
+
 - 💬 Ask me about *MERN*
 
 - 📫 How to reach me *anurag.am2003@gmail.com*
