@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on <a href="https://github.com/ianuragmishra/Job-Portal" alt="Job-Portal"/>Job-Portal</a>
+- 🌱 I’m currently working on <a href="https://github.com/ianuragmishra/LifeShare" alt="LifeShare"/>LifeShare</a>
 
 - 🔭 I’m currently learning *Data Structures and Algorithms*
 
