@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt=""Coder>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragvlog&label=Profile%20views&color=0e75b6&style=flat" alt="anuragvlog" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianuragmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ianuragmishra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on <a href="https://github.com/ianuragmishra/LifeShare" alt="LifeShare"/>LifeShare</a>
+- 🌱 I’m currently working on <a href = "https://github.com/ianuragmishra/Job-Portal">Job Portal</a>
 
-- 🔭 I’m currently learning *Data Structures and Algorithms*
+- 💬 Ask me about MERN
 
-- 💬 Ask me about *MERN*
+- 📫 How to reach me anurag.am2003@gmail.com
 
-- 📫 How to reach me *anurag.am2003@gmail.com*
+- 👨🏻‍💻 All of my projects are available at <a href = "https://github.com/ianuragmishra">https://github.com/ianuragmishra</a>
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ianuragmishra26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/ianuragmishra26](https://www.linkedin.com/in/ianuragmishra26)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ianuragmishra26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ianuragmishra26/" height="30" width="40" /></a>
 <a href="https://leetcode.com/i_anurag_mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_anurag_mishra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anuragmishra26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragmishra26" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anuragmishra26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragmishra26" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianuragmishra&show_icons=true&locale=en" alt="ianuragmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianuragmishra&" alt="ianuragmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianuragmishra&" alt="ianuragmishra" /></p>
